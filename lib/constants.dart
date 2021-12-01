@@ -12,7 +12,7 @@ abstract class Constants {
   static double get bottomNavigationBarHeight => 80;
   static double get listTileUserHeight => 100;
   static double get errorIconSize => 50;
-  static double get errorTextSize => 30;
+  static double get errorTextSize => 25;
   // В больших проектах определяем все цвета в Theme, но в силу небольших размеров проекта,
   // и экономии времени выновим все цвета в файл с константами
   static Color get orangeColor => Color(0xffEB8A44);
